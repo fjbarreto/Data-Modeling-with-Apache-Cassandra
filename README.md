@@ -1,5 +1,5 @@
 # Data Modeling with Apache Cassandra
-In this second **Udacity Data Engineering** project we must create an Apache Cassandra database for the music streaming startup **Sparkify**. This NoSql database will make queries on song play data faster for analysts to gain insights of their users behavior. ```SparkifyKS``` is the name of the keyspace that contains three tables optimized to perform the following queries:
+In this second **Udacity Data Engineering** project we must create an Apache Cassandra database for the music streaming startup **Sparkify**. This NoSql database will make queries on song play data faster for analysts to gain insights of their users' behavior. ```SparkifyKS``` is the name of the keyspace that contains three tables optimized to perform the following queries:
 
 ### 1. Table session_info
 Query: 
